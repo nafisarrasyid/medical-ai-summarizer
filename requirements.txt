@@ -1,0 +1,13 @@
+streamlit
+pymupdf
+python-docx
+ollama
+SpeechRecognition
+pandas
+fpdf
+streamlit-mic-recorder
+soundfile
+numpy
+
+pip install -r requirements.txt
+run app2.py
